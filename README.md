@@ -44,6 +44,6 @@ It reflects my digital presence with a stylish interface, animated effects, and 
 ---
 
 <p align="center">
-  Crafted with ❤️, 💻 and pure passion by <b><i>SaM RaJPuT</i></b> <br>
-  <sub>Because ordinary isn’t my style 🚀</sub>
+  Built with ❤️ and creativity by <b><i>SaM RaJPuT</i></b> <br>
+  <sub>Turning ideas into impact — one pixel at a time 🚀</sub>
 </p>

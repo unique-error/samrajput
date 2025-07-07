@@ -1,8 +1,10 @@
-<h1 align="center">🔥 SaM RaJPuT 🔥</h1>
-<p align="center">
-  The One and Only | Personal Portfolio 💻 <br><br>
-  🚀 Hosted on GitHub Pages  
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg" width="130" height="130" style="border-radius: 50%;" alt="Sam Rajput" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=🔥+SaM+RaJPuT+🔥;The+One+and+Only+Portfolio" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://unique-error.github.io/samrajput/">🌐 Live Site</a> •
@@ -15,18 +17,18 @@
 
 ## 🔥 About Me
 
-A minimal and dynamic personal website built for **Sam Rajput**  
-This project reflects my digital presence with smooth animation, social links, and responsive layout.
+A dynamic and minimal personal website built for **SaM RaJPuT**.  
+It reflects my digital presence with a stylish interface, animated effects, and responsive design.
 
 ---
 
 ## 💡 Features
 
-- Stylish UI with profile image  
-- Animated typewriter intro  
-- Hidden background YouTube music  
-- All social icons with working links  
-- Mobile-first responsive design  
+- Circular profile photo  
+- Typing intro animation  
+- Hidden background music  
+- Social icons with glowing hover effect  
+- Mobile-first responsive layout  
 
 ---
 
@@ -39,6 +41,9 @@ This project reflects my digital presence with smooth animation, social links, a
 ---
 
 ## 📁 File Structure
+---
+
 <p align="center">
-  Made with ❤️ by <b>SaM RaJPuT</b>
+  Crafted with ❤️, 💻 and pure passion by <b><i>SaM RaJPuT</i></b> <br>
+  <sub>Because ordinary isn’t my style 🚀</sub>
 </p>

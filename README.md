@@ -39,3 +39,6 @@ This project reflects my digital presence with smooth animation, social links, a
 ---
 
 ## 📁 File Structure
+<p align="center">
+  Made with ❤️ by <b>SaM RaJPuT</b>
+</p>

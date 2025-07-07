@@ -8,7 +8,7 @@
   <a href="https://unique-error.github.io/samrajput/">🌐 Live Site</a> •
   <a href="https://www.instagram.com/unique__error/">📸 Instagram</a> •
   <a href="https://youtube.com/@uniqueerror">🎥 YouTube</a> •
-  <a href="http://www.linkedin.com/in/joginder-singh-rajput">💼 LinkedIn</a>
+  <a href="https://t.me/UniQueErrOr">💬 Telegram</a>
 </p>
 
 ---

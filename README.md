@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg" width="130" height="130" style="border-radius: 50%;" alt="Sam Rajput" />
+<img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
+     width="130" height="130"
+     style="border-radius: 50%; background-color: #ffffff;" 
+     alt="Sam Rajput" />
 </div>
 
 <h1 align="center">

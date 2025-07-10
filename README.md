@@ -59,7 +59,6 @@ My portfolio isn’t just a site — it’s a vibe that reflects confidence, cre
 - **HTML5** – For the structure  
 - **CSS3** – With Google Fonts & Font Awesome  
 - **JavaScript** – Pure Vanilla JS  
-- **Netlify (before)** → Now on **GitHub Pages**
 
 ---
 

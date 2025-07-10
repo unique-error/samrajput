@@ -1,73 +1,80 @@
-<div align="center">
-
-  <!-- Profile Image with Glow Border -->
+<!-- PROFILE CENTER -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
        width="140" height="140"
-       style="border-radius: 50%; background-color: #ffffff; box-shadow: 0 0 12px #00FFFF;"
-       alt="Sam Rajput" />
+       style="border-radius: 50%; background-color: #fff; box-shadow: 0 0 15px #00ffff;" alt="Sam Rajput" />
+</p>
 
-  <!-- Static Stylish Heading -->
-  <h1 align="center" style="color:#00FFFF; font-family:'Fira Code', monospace;">
-    ⚡ SaM RaJPuT ⚡
-  </h1>
-  <p><strong><i>Digital Vibes Only | Artist • Coder • Dreamer 🎧</i></strong></p>
+<h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋</h1>
 
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="https://unique-error.github.io/samrajput/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 Live–Site-111827?style=for-the-badge&logo=github&logoColor=00ffd5&color=2d2d2d" />
-    </a>
-    <a href="https://www.instagram.com/unique__error/" target="_blank">
-      <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://youtube.com/@uniqueerror" target="_blank">
-      <img src="https://img.shields.io/badge/🎥 YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://t.me/UniQueErrOr" target="_blank">
-      <img src="https://img.shields.io/badge/💬 Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-  </p>
-
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=unique-error&style=flat-square&color=00FFFF" alt="visitor badge"/>
-
-</div>
+<p align="center"><i>Digital Crafter • Visual Vibes • Code Meets Creativity</i></p>
 
 ---
 
-## 🔥 About Me
+### 🎯 Who Am I?
 
-Hi, I’m <strong>SaM RaJPuT</strong> — a creator who blends code, music, and media into digital experiences that speak for themselves.  
-My portfolio isn’t just a site — it’s a vibe that reflects confidence, creativity, and a little chaos. 🎭
+🧠 A mind full of ideas,  
+🎭 A heart full of rhythm,  
+🖥️ And a keyboard full of dreams.
 
----
-
-## 💡 Features
-
-- 🖼️ Circular profile image with glowing effect  
-- 🎵 Hidden YouTube music embedded in the background  
-- 🌐 All social icons with interactive hover effect  
-- 📱 100% mobile responsive layout  
-- ⚡ Hosted fast & free on GitHub Pages  
+I build not just websites, I craft **identities**.  
+Minimal design, maximum presence — that's my game. 🕶️
 
 ---
 
-## 🛠 Tech Stack
-
-> Tools & Tech I used to build this:
-
-- **HTML5** – For the structure  
-- **CSS3** – With Google Fonts & Font Awesome  
-- **JavaScript** – Pure Vanilla JS  
-
----
-
-## 📁 File Structure
+### 🚀 My Digital Zone
 
 <p align="center">
-  Built with ❤️ and creativity by <b><i>SaM RaJPuT</i></b> <br>
-  <sub>Turning vibes into visuals — one pixel at a time 🚀</sub> <br><br>
+  <a href="https://unique-error.github.io/samrajput/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live–Portfolio-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
+  </a>
+  <a href="https://www.instagram.com/unique__error/" target="_blank">
+    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@uniqueerror" target="_blank">
+    <img src="https://img.shields.io/badge/🎥 YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://t.me/UniQueErrOr" target="_blank">
+    <img src="https://img.shields.io/badge/💬 Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
+---
+
+### 🔥 Skills I Blend
+
+- 🎨 Design with vibe  
+- 🔧 Code with clarity  
+- 🎶 Background with rhythm  
+- 💡 Ideas that glow  
+
+---
+
+### 💻 Tech Ingredients
+
+- HTML5 • CSS3 • JavaScript  
+- Font Awesome + Google Fonts  
+- GitHub Pages Hosting  
+
+---
+
+### 🧩 Projects That Speak
+
+📂 [`samrajput`](https://github.com/unique-error/samrajput) – Personal portfolio, animated and responsive  
+📂 [`more_coming_soon`](#) – Ideas in progress...
+
+---
+
+### 🕶️ The Vibe Zone
+
+<p align="center">
   <img src="https://img.shields.io/github/last-commit/unique-error/samrajput?style=flat-square&color=00ffff&logo=github" />
-  <img src="https://img.shields.io/badge/⏳ Time-is%20an%20illusion-00FFFF?style=flat-square&color=2d2d2d" />
+  <img src="https://img.shields.io/badge/⚡ Energy-Level–Overflowing-2d2d2d?style=flat-square&color=00ffff" />
+</p>
+
+---
+
+<p align="center">
+  🧠 Code. 🎭 Perform. 💫 Inspire. <br>
+  Made with 💙 by <b>SaM RaJPuT</b>
 </p>

@@ -64,14 +64,14 @@
 
 ---
 
-### 🧩 Projects That Speak
+### 🧩 ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ꜱᴘᴇᴀᴋ
 
-📂 [`samrajput`](https://github.com/unique-error/samrajput) – Personal portfolio, animated and responsive  
-📂 [`more_coming_soon`](#) – Ideas in progress...
+📂 [`samrajput`](https://github.com/unique-error/samrajput) –  ᴘᴇʀꜱᴏɴᴀʟ ᴘᴏʀᴛꜰᴏʟɪᴏ, ᴀɴɪᴍᴀᴛᴇᴅ ᴀɴᴅ ʀᴇꜱᴘᴏɴꜱɪᴠᴇ
+📂 [`more_coming_soon`](#) – ɪᴅᴇᴀꜱ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ...
 
 ---
 
-### 🕶️ The Vibe Zone
+### 🕶️ ᴛʜᴇ ᴠɪʙᴇ ᴢᴏɴᴇ
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/unique-error/samrajput?style=flat-square&color=00ffff&logo=github" />

@@ -67,12 +67,12 @@
 ### 🧩 ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ꜱᴘᴇᴀᴋ
 
 📂 [`samrajput`](https://github.com/unique-error/samrajput) –  ᴘᴇʀꜱᴏɴᴀʟ ᴘᴏʀᴛꜰᴏʟɪᴏ, ᴀɴɪᴍᴀᴛᴇᴅ ᴀɴᴅ ʀᴇꜱᴘᴏɴꜱɪᴠᴇ
+
 📂 [`more_coming_soon`](#) – ɪᴅᴇᴀꜱ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ...
 
 ---
 
 ### 🕶️ ᴛʜᴇ ᴠɪʙᴇ ᴢᴏɴᴇ
-
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/unique-error/samrajput?style=flat-square&color=00ffff&logo=github" />
   <img src="https://img.shields.io/badge/⚡ Energy-Level–Overflowing-2d2d2d?style=flat-square&color=00ffff" />

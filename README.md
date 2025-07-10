@@ -1,62 +1,66 @@
-<!-- PROFILE CENTER -->
+<<!-- PROFILE CENTER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
        width="140" height="140"
-       alt="Sam Rajput"
-       style="border-radius: 50%; background-color: #fff; box-shadow: 0 0 15px #00ffff; object-fit: cover;" />
+       style="border-radius: 50%; background-color: #ffffff; box-shadow: 0 0 12px #00ffff;" alt="Sam Rajput" />
 </p>
 
+<h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋<h2>
 
-<h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋</h1>
-
-<p align="center"><i>Digital Crafter • Visual Vibes • Code Meets Creativity</i></p>
+<p align="center">ᴅɪɢɪᴛᴀʟ ᴄʀᴀꜰᴛᴇʀ • ᴠɪꜱᴜᴀʟ ᴠɪʙᴇꜱ • ᴄᴏᴅᴇ ᴍᴇᴇᴛꜱ ᴄʀᴇᴀᴛɪᴠɪᴛʏ</p>
 
 ---
-
-### 🚀 My Digital Zone
 
 <p align="center">
   <a href="https://unique-error.github.io/samrajput/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Live–Portfolio-111827?style=for-the-badge&logo=github&logoColor=00ffff&color=2d2d2d" />
   </a>
-  <a href="https://www.instagram.com/unique__error/" target="_blank">
-    <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@uniqueerror" target="_blank">
-    <img src="https://img.shields.io/badge/🎥 YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://t.me/UniQueErrOr" target="_blank">
-    <img src="https://img.shields.io/badge/💬 Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🎯 Who Am I?
+<p align="center">
+  <a href="https://open.spotify.com/user/31vyk5eyp6mxwosr3wvf2oyxv44u" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyk5eyp6mxwosr3wvf2oyxv44u&count=1&width=600&unique=true&background=1c1c1e&border_color=00ffff" 
+         alt="Spotify Now Playing"
+         width="600" 
+         style="border-radius: 12px; box-shadow: 0 0 25px #00ffff;" />
+  </a>
+</p>
 
-🧠 A mind full of ideas,  
-🎭 A heart full of rhythm,  
-🖥️ And a keyboard full of dreams.
-
-I build not just websites, I craft **identities**.  
-Minimal design, maximum presence — that's my game. 🕶️
-
----
-
-### 🔥 Skills I Blend
-
-- 🎨 Design with vibe  
-- 🔧 Code with clarity  
-- 🎶 Background with rhythm  
-- 💡 Ideas that glow  
 
 ---
 
-### 💻 Tech Ingredients
 
-- HTML5 • CSS3 • JavaScript  
-- Font Awesome + Google Fonts  
-- GitHub Pages Hosting  
+### 🧠 𝗪ʜᴏ 𝗔ᴍ 𝗜?
+
+- 🧠 ᴀ ᴍɪɴᴅ ꜰᴜʟʟ ᴏꜰ ɪᴅᴇᴀꜱ  
+- 🎭 ᴀ ʜᴇᴀʀᴛ ꜰᴜʟʟ ᴏꜰ ʀʜʏᴛʜᴍ  
+- 🖥️ ᴀ ᴋᴇʏʙᴏᴀʀᴅ ꜰᴜʟʟ ᴏꜰ ᴅʀᴇᴀᴍꜱ  
+
+ɪ ᴅᴏɴ’ᴛ ᴊᴜꜱᴛ ʙᴜɪʟᴅ ᴡᴇʙꜱɪᴛᴇꜱ — ɪ ʙᴜɪʟᴅ **ᴠɪʙᴇꜱ**  
+ᴍɪɴɪᴍᴀʟ ʙʏ ᴅᴇꜱɪɢɴ, ʙᴏʟᴅ ʙʏ ɴᴀᴛᴜʀᴇ. 🎯
+
+---
+
+### 🔧 𝗦ᴋɪʟʟꜱ 𝗜 𝗕ʟᴇɴᴅ
+
+- 🎨 ᴅᴇꜱɪɢɴ ᴡɪᴛʜ ᴇᴍᴏᴛɪᴏɴ  
+- 💡 ɪᴅᴇᴀꜱ ᴡɪᴛʜ ɪᴍᴘᴀᴄᴛ  
+- 🎶 ᴀᴜᴅɪᴏ ᴡɪᴛʜ ᴀᴍʙɪᴀɴᴄᴇ  
+- 🔧 ᴄᴏᴅᴇ ᴡɪᴛʜ ᴄʟᴀꜱꜱ  
+
+---
+
+### 💻 𝗧ᴇᴄʜ ꜱᴛᴀᴄᴋ
+
+- ʜᴛᴍʟ𝟻  
+- ᴄꜱꜱ𝟹 (ꜰᴏɴᴛ ᴀᴡᴇꜱᴏᴍᴇ + ɢᴏᴏɢʟᴇ ꜰᴏɴᴛꜱ)  
+- ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ (ᴠᴀɴɪʟʟᴀ)  
+- ɢɪᴛʜᴜʙ ᴘᴀɢᴇꜱ ʜᴏꜱᴛɪɴɢ  
+
+---
+  
 
 ---
 

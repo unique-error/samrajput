@@ -2,8 +2,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
        width="140" height="140"
-       style="border-radius: 50%; background-color: #fff; box-shadow: 0 0 15px #00ffff;" alt="Sam Rajput" />
+       alt="Sam Rajput"
+       style="border-radius: 50%; background-color: #fff; box-shadow: 0 0 15px #00ffff; object-fit: cover;" />
 </p>
+
 
 <h1 align="center">Hey there, I'm <span style="color:#00FFFF;">SaM RaJPuT</span> 👋</h1>
 

@@ -70,11 +70,12 @@ My portfolio isn’t just a site — it’s a vibe that reflects confidence, cre
 
 ---
 
+---
+
 <p align="center">
   Built with ❤️ and creativity by <b><i>SaM RaJPuT</i></b> <br>
   <sub>Turning vibes into visuals — one pixel at a time 🚀</sub> <br><br>
 
-  <!-- Live Time Badge -->
-  <img src="https://timebadge.io/badge.svg" alt="Live Time" />
+  <!-- Stylish Time Badge -->
+  <img src="https://img.shields.io/badge/🕒-IST%20Time-2d2d2d?style=flat-square&logo=clockify&logoColor=00FFFF&labelColor=000000&color=111827" />
 </p>
-

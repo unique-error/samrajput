@@ -28,27 +28,27 @@
 
 ## 🔥 About Me
 
-A **minimal, dynamic** and sleek personal website built for **SaM RaJPuT**.  
-It’s a digital reflection of my passion — with animated text, responsive design and glowing social links.
+A **dynamic and minimal personal portfolio website** built for **SaM RaJPuT**.  
+Showcasing my identity, creativity, and presence — all in one clean and stylish digital home.
 
 ---
 
 ## 💡 Features
 
-- Circular profile photo  
-- Typing intro animation  
-- Hidden background music  
-- Glow-on-hover social icons  
-- Mobile-first responsive layout  
-- Live hosted on GitHub Pages  
+- 🖼️ Circular profile image  
+- ⌨️ Typing text animation  
+- 🎵 Hidden YouTube background music  
+- 🌐 Clickable social icons with glow effect  
+- 📱 Fully responsive for all devices  
+- ⚡ Hosted via GitHub Pages  
 
 ---
 
 ## 🛠 Tech Stack
 
-- HTML  
-- CSS (Font Awesome + Google Fonts)  
-- JavaScript  
+- HTML5  
+- CSS3 (Font Awesome, Google Fonts)  
+- JavaScript (Vanilla)
 
 ---
 
@@ -58,6 +58,6 @@ It’s a digital reflection of my passion — with animated text, responsive des
 ---
 
 <p align="center">
-  Built with ❤️ and creativity by <b><i>SaM RaJPuT</i></b><br>
-  <sub>Turning pixels into personality 🚀</sub>
+  Crafted with ❤️ and code by <b><i>SaM RaJPuT</i></b><br>
+  <sub>Turning pixels into presence — one repo at a time 🚀</sub>
 </p>

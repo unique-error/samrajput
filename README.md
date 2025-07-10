@@ -69,7 +69,6 @@ Minimal design, maximum presence — that's my game. 🕶️
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/unique-error/samrajput?style=flat-square&color=00ffff&logo=github" />
-  <img src="https://img.shields.io/badge/🕒 Timezone-Asia/Kolkata-00FFFF?style=flat-square&color=111827" />
   <img src="https://img.shields.io/badge/⚡ Energy-Level–Overflowing-2d2d2d?style=flat-square&color=00ffff" />
 </p>
 

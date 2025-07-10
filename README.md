@@ -70,6 +70,5 @@ My portfolio isn’t just a site — it’s a vibe that reflects confidence, cre
   <sub>Turning vibes into visuals — one pixel at a time 🚀</sub> <br><br>
 
   <img src="https://img.shields.io/github/last-commit/unique-error/samrajput?style=flat-square&color=00ffff&logo=github" />
-  <img src="https://img.shields.io/badge/🕒 Timezone-Asia/Kolkata-00FFFF?style=flat-square&color=111827" />
   <img src="https://img.shields.io/badge/⏳ Time-is%20an%20illusion-00FFFF?style=flat-square&color=2d2d2d" />
 </p>

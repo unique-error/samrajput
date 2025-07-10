@@ -6,10 +6,11 @@
        style="border-radius: 50%; background-color: #ffffff; box-shadow: 0 0 12px #00FFFF;"
        alt="Sam Rajput" />
 
-  <!-- Typing SVG Heading -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=🔥+SaM+RaJPuT+🔥;Digital+Vibes+Only;Artist+|+Coder+|+Dreamer" alt="Typing SVG" />
+  <!-- Static Stylish Heading -->
+  <h1 align="center" style="color:#00FFFF; font-family:'Fira Code', monospace;">
+    ⚡ SaM RaJPuT ⚡
   </h1>
+  <p><strong><i>Digital Vibes Only | Artist • Coder • Dreamer 🎧</i></strong></p>
 
   <!-- Social Badges -->
   <p align="center">
@@ -44,7 +45,6 @@ My portfolio isn’t just a site — it’s a vibe that reflects confidence, cre
 ## 💡 Features
 
 - 🖼️ Circular profile image with glowing effect  
-- ⌨️ Typing-style animated heading  
 - 🎵 Hidden YouTube music embedded in the background  
 - 🌐 All social icons with interactive hover effect  
 - 📱 100% mobile responsive layout  
@@ -68,7 +68,13 @@ My portfolio isn’t just a site — it’s a vibe that reflects confidence, cre
 
 ---
 
+---
+
 <p align="center">
-  Built with ❤️, energy ⚡ and full swag 😎 by <b><i>SaM RaJPuT</i></b> <br>
-  <sub>“Don’t just exist. Leave a digital legacy.” 🚀</sub>
+  Built with ❤️ and creativity by <b><i>SaM RaJPuT</i></b> <br>
+  <sub>Turning vibes into visuals — one pixel at a time 🚀</sub> <br><br>
+
+  <!-- Live Time Badge -->
+  <img src="https://timebadge.io/badge.svg" alt="Live Time" />
 </p>
+

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
        width="130" height="130"
-       style="border-radius: 50%; background-color: #ffffff;" 
+       style="border-radius: 50%; background-color: #ffffff;"
        alt="Sam Rajput" />
 </div>
 
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://unique-error.github.io/samrajput/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Live%20Site-222831?style=for-the-badge&logo=github&logoColor=00ffd5&color=2d2d2d" />
+    <img src="https://img.shields.io/badge/🌐 Live–Site-222831?style=for-the-badge&logo=github&logoColor=00ffd5&color=2d2d2d" />
   </a>
   <a href="https://www.instagram.com/unique__error/" target="_blank">
     <img src="https://img.shields.io/badge/📸 Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -29,17 +29,17 @@
 ## 🔥 About Me
 
 A **dynamic and minimal personal portfolio website** built for **SaM RaJPuT**.  
-Showcasing my identity, creativity, and presence — all in one clean and stylish digital home.
+Showcasing my identity, creativity, and passion — all in one clean and stylish digital space.
 
 ---
 
 ## 💡 Features
 
 - 🖼️ Circular profile image  
-- ⌨️ Typing text animation  
+- ⌨️ Typing text animation (works now!)  
 - 🎵 Hidden YouTube background music  
-- 🌐 Clickable social icons with glow effect  
-- 📱 Fully responsive for all devices  
+- 🌐 Clickable social icons with glow-on-hover  
+- 📱 Fully responsive design  
 - ⚡ Hosted via GitHub Pages  
 
 ---
@@ -47,7 +47,7 @@ Showcasing my identity, creativity, and presence — all in one clean and stylis
 ## 🛠 Tech Stack
 
 - HTML5  
-- CSS3 (Font Awesome, Google Fonts)  
+- CSS3 (Font Awesome + Google Fonts)  
 - JavaScript (Vanilla)
 
 ---
@@ -58,6 +58,6 @@ Showcasing my identity, creativity, and presence — all in one clean and stylis
 ---
 
 <p align="center">
-  Crafted with ❤️ and code by <b><i>SaM RaJPuT</i></b><br>
+  Crafted with ❤️ and creativity by <b><i>SaM RaJPuT</i></b><br>
   <sub>Turning pixels into presence — one repo at a time 🚀</sub>
 </p>

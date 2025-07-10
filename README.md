@@ -11,17 +11,6 @@
 
 ---
 
-### 🎯 Who Am I?
-
-🧠 A mind full of ideas,  
-🎭 A heart full of rhythm,  
-🖥️ And a keyboard full of dreams.
-
-I build not just websites, I craft **identities**.  
-Minimal design, maximum presence — that's my game. 🕶️
-
----
-
 ### 🚀 My Digital Zone
 
 <p align="center">
@@ -38,6 +27,17 @@ Minimal design, maximum presence — that's my game. 🕶️
     <img src="https://img.shields.io/badge/💬 Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 🎯 Who Am I?
+
+🧠 A mind full of ideas,  
+🎭 A heart full of rhythm,  
+🖥️ And a keyboard full of dreams.
+
+I build not just websites, I craft **identities**.  
+Minimal design, maximum presence — that's my game. 🕶️
 
 ---
 

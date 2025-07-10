@@ -65,17 +65,11 @@ My portfolio isn’t just a site — it’s a vibe that reflects confidence, cre
 
 ## 📁 File Structure
 
-
----
-
----
-
----
-
 <p align="center">
   Built with ❤️ and creativity by <b><i>SaM RaJPuT</i></b> <br>
   <sub>Turning vibes into visuals — one pixel at a time 🚀</sub> <br><br>
 
-  <!-- Stylish Time Badge -->
-  <img src="https://img.shields.io/badge/🕒-IST%20Time-2d2d2d?style=flat-square&logo=clockify&logoColor=00FFFF&labelColor=000000&color=111827" />
+  <img src="https://img.shields.io/github/last-commit/unique-error/samrajput?style=flat-square&color=00ffff&logo=github" />
+  <img src="https://img.shields.io/badge/🕒 Timezone-Asia/Kolkata-00FFFF?style=flat-square&color=111827" />
+  <img src="https://img.shields.io/badge/⏳ Time-is%20an%20illusion-00FFFF?style=flat-square&color=2d2d2d" />
 </p>

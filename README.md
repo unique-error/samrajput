@@ -1,4 +1,4 @@
-<<!-- PROFILE CENTER -->
+<!-- PROFILE CENTER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/unique-error/samrajput/main/assets/sam.jpg"
        width="140" height="140"

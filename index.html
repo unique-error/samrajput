@@ -24,7 +24,6 @@
         <span class="rgb-text">SaM RaJPuT</span>
       </div>
       <div class="social-links">
-        <!-- Social media links will go here -->
         <a href="https://www.instagram.com/unique__error/" target="_blank" class="social-icon">
           <i class="fab fa-instagram"></i>
         </a>
@@ -56,11 +55,28 @@
     </div>
   </div>
 
-  <!-- Background music (hidden) -->
-  <div id="player" style="display: none;"></div>
+  <!-- Background Music -->
+  <audio id="bgMusic" autoplay loop>
+    <source src="Shiv-Tandav.mp3" type="audio/mpeg">
+  </audio>
 
-  <!-- YouTube API -->
-  <script src="iframe_api"></script>
+  <script>
+    const audio = document.getElementById('bgMusic');
+    audio.volume = 1.0; // Full volume
+
+    // Start from 0:30
+    audio.addEventListener('loadedmetadata', () => {
+      audio.currentTime = 30;
+    });
+
+    // If autoplay blocked, play on click
+    document.body.addEventListener('click', () => {
+      if (audio.paused) {
+        audio.play();
+      }
+    });
+  </script>
+
 </body>
 
 </html>

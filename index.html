@@ -6,11 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SaM RaJPuT</title>
   <meta name="description" content="SaM RaJPuT : The 0ne and 0nly">
-  <!-- Font Awesome for social icons -->
+  <!-- Font Awesome -->
   <link rel="stylesheet" href="css/all.min.css">
-  <!-- IBM Plex Sans Devanagari font -->
   <link href="css/css2.css" rel="stylesheet">
-  <script type="module" crossorigin="" src="js/index-c_262Wyp.js"></script>
   <link rel="stylesheet" crossorigin="" href="css/style.css">
 
   <style>
@@ -21,82 +19,63 @@
       right: 20px;
       border: none;
       border-radius: 50%;
-      width: 60px;
-      height: 60px;
+      width: 65px;
+      height: 65px;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 24px;
+      font-size: 28px;
       cursor: pointer;
       z-index: 999;
-      color: white;
       background: black;
       animation: rgbGlow 3s linear infinite;
       box-shadow: 0 0 20px red;
     }
 
+    /* RGB Glow Effect */
     @keyframes rgbGlow {
-      0% {
-        box-shadow: 0 0 20px red;
-      }
+      0% { box-shadow: 0 0 20px red; }
+      25% { box-shadow: 0 0 20px lime; }
+      50% { box-shadow: 0 0 20px blue; }
+      75% { box-shadow: 0 0 20px magenta; }
+      100% { box-shadow: 0 0 20px red; }
+    }
 
-      25% {
-        box-shadow: 0 0 20px lime;
-      }
+    /* RGB Gradient Icon */
+    #musicControl i {
+      background: linear-gradient(90deg, red, lime, blue, magenta, red);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: rgbIcon 3s linear infinite;
+      background-size: 400% 400%;
+    }
 
-      50% {
-        box-shadow: 0 0 20px blue;
-      }
-
-      75% {
-        box-shadow: 0 0 20px magenta;
-      }
-
-      100% {
-        box-shadow: 0 0 20px red;
-      }
+    @keyframes rgbIcon {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
   </style>
 </head>
 
 <body>
-  <div id="root">
-    <div class="profile-container">
-      <div class="profile-image">
-        <img src="assets/sam.jpg" alt="Sam Rajput" width="150" height="150" style="border-radius: 50%;">
-      </div>
-      <div class="name">
-        <span class="rgb-text">SaM RaJPuT</span>
-      </div>
-      <div class="social-links">
-        <a href="https://www.instagram.com/unique__error/" target="_blank" class="social-icon">
-          <i class="fab fa-instagram"></i>
-        </a>
-        <a href="https://t.me/UniQueErrOr" target="_blank" class="social-icon">
-          <i class="fab fa-telegram"></i>
-        </a>
-        <a href="https://www.threads.com/@unique_error" target="_blank" class="social-icon">
-          <i class="fab fa-threads"></i>
-        </a>
-        <a href="https://x.com/unique_error" target="_blank" class="social-icon">
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a href="https://m.facebook.com/UniQue.ErrOr/" target="_blank" class="social-icon">
-          <i class="fab fa-facebook"></i>
-        </a>
-        <a href="https://www.facebook.com/Mr.Sa1M" target="_blank" class="social-icon">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="https://youtube.com/@uniqueerror" target="_blank" class="social-icon">
-          <i class="fab fa-youtube"></i>
-        </a>
-        <a href="https://www.snapchat.com/add/unique.error" target="_blank" class="social-icon">
-          <i class="fab fa-snapchat"></i>
-        </a>
-        <a href="http://www.linkedin.com/in/joginder-singh-rajput" target="_blank" class="social-icon">
-          <i class="fab fa-linkedin"></i>
-        </a>
-      </div>
+  <div class="profile-container">
+    <div class="profile-image">
+      <img src="assets/sam.jpg" alt="Sam Rajput" width="150" height="150" style="border-radius: 50%;">
+    </div>
+    <div class="name">
+      <span class="rgb-text">SaM RaJPuT</span>
+    </div>
+    <div class="social-links">
+      <a href="https://www.instagram.com/unique__error/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://t.me/UniQueErrOr" target="_blank"><i class="fab fa-telegram"></i></a>
+      <a href="https://www.threads.com/@unique_error" target="_blank"><i class="fab fa-threads"></i></a>
+      <a href="https://x.com/unique_error" target="_blank"><i class="fab fa-twitter"></i></a>
+      <a href="https://m.facebook.com/UniQue.ErrOr/" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.facebook.com/Mr.Sa1M" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://youtube.com/@uniqueerror" target="_blank"><i class="fab fa-youtube"></i></a>
+      <a href="https://www.snapchat.com/add/unique.error" target="_blank"><i class="fab fa-snapchat"></i></a>
+      <a href="http://www.linkedin.com/in/joginder-singh-rajput" target="_blank"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 
@@ -152,5 +131,4 @@
   </script>
 
 </body>
-
 </html>

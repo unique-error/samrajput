@@ -12,6 +12,51 @@
   <link href="css/css2.css" rel="stylesheet">
   <script type="module" crossorigin="" src="js/index-c_262Wyp.js"></script>
   <link rel="stylesheet" crossorigin="" href="css/style.css">
+
+  <style>
+    /* Floating RGB Music Button */
+    #musicControl {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      cursor: pointer;
+      z-index: 999;
+      color: white;
+      background: black;
+      animation: rgbGlow 3s linear infinite;
+      box-shadow: 0 0 20px red;
+    }
+
+    @keyframes rgbGlow {
+      0% {
+        box-shadow: 0 0 20px red;
+      }
+
+      25% {
+        box-shadow: 0 0 20px lime;
+      }
+
+      50% {
+        box-shadow: 0 0 20px blue;
+      }
+
+      75% {
+        box-shadow: 0 0 20px magenta;
+      }
+
+      100% {
+        box-shadow: 0 0 20px red;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -60,23 +105,48 @@
     <source src="Shiv-Tandav.mp3" type="audio/mpeg">
   </audio>
 
+  <!-- Floating RGB Button -->
+  <button id="musicControl">
+    <i class="fas fa-play"></i>
+  </button>
+
   <script>
     const audio = document.getElementById('bgMusic');
-    const startPoint = 30; // Lyrics start at 0:30 sec
+    const btn = document.getElementById('musicControl');
+    const startPoint = 30; // Start from 0:30 seconds
+
+    function playMusic() {
+      audio.currentTime = startPoint;
+      audio.muted = false;
+      audio.play();
+      btn.innerHTML = '<i class="fas fa-pause"></i>';
+    }
+
+    function pauseMusic() {
+      audio.pause();
+      btn.innerHTML = '<i class="fas fa-play"></i>';
+    }
 
     audio.addEventListener('canplay', () => {
       if (audio.currentTime < startPoint) {
         audio.currentTime = startPoint;
       }
-      audio.muted = false; // Unmute after seek
+      audio.muted = false;
       audio.play();
+      btn.innerHTML = '<i class="fas fa-pause"></i>';
     });
 
-    // If autoplay blocked, play on click
+    btn.addEventListener('click', () => {
+      if (audio.paused) {
+        playMusic();
+      } else {
+        pauseMusic();
+      }
+    });
+
     document.body.addEventListener('click', () => {
       if (audio.paused) {
-        audio.currentTime = startPoint;
-        audio.play();
+        playMusic();
       }
     });
   </script>

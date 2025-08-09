@@ -56,22 +56,26 @@
   </div>
 
   <!-- Background Music -->
-  <audio id="bgMusic" autoplay loop>
+  <audio id="bgMusic" autoplay loop muted>
     <source src="Shiv-Tandav.mp3" type="audio/mpeg">
   </audio>
 
   <script>
     const audio = document.getElementById('bgMusic');
-    audio.volume = 1.0; // Full volume
+    const startPoint = 32; // Lyrics start at 0:32 sec
 
-    // Start from 0:30
-    audio.addEventListener('loadedmetadata', () => {
-      audio.currentTime = 30;
+    audio.addEventListener('canplay', () => {
+      if (audio.currentTime < startPoint) {
+        audio.currentTime = startPoint;
+      }
+      audio.muted = false; // Unmute after seek
+      audio.play();
     });
 
     // If autoplay blocked, play on click
     document.body.addEventListener('click', () => {
       if (audio.paused) {
+        audio.currentTime = startPoint;
         audio.play();
       }
     });

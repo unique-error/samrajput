@@ -68,6 +68,12 @@
 
 📂 [`samrajput`](https://github.com/unique-error/samrajput) –  ᴘᴇʀꜱᴏɴᴀʟ ᴘᴏʀᴛꜰᴏʟɪᴏ, ᴀɴɪᴍᴀᴛᴇᴅ ᴀɴᴅ ʀᴇꜱᴘᴏɴꜱɪᴠᴇ
 
+📂 [`unique-error`](https://github.com/unique-error/unique-error) –  ᴘʀᴏғɪʟᴇ ʀᴇᴅᴍᴇ ᴍᴅ
+
+📂 [`Op7pro_Firmware`](https://github.com/unique-error/Op7pro_Firmware)) –  ᴏɴᴇᴘʟᴜs 𝟽ᴘʀᴏ ғɪʀᴍᴡᴀʀᴇ ғʟᴀsʜᴇʀ
+
+📂 [`root-detection-app-collection`](https://github.com/unique-error/root-detection-app-collection)) –  ᴀʟʟ ʀᴏᴏᴛ-ᴅᴇᴛᴇᴄᴛɪᴏɴ ᴀᴘᴘs ɪɴ ᴏɴᴇ ᴘʟᴀᴄᴇ.
+
 📂 [`more_coming_soon`](#) – ɪᴅᴇᴀꜱ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ...
 
 ---
